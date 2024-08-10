@@ -1,0 +1,14 @@
+{
+  "Exercise": {
+    "description": "Work out for 30 minutes",
+    "frequency": "daily"
+  },
+  "Read": {
+    "description": "Read a book for 1 hour",
+    "frequency": "daily"
+  },
+  "Baca": {
+    "description": "Membaca",
+    "frequency": "mingguan"
+  }
+}
